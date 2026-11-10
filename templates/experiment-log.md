@@ -26,9 +26,9 @@ Use one copy for each prototype test or experiment. Record enough detail to unde
 
 ## Procedure
 
-1. 
-2. 
-3. 
+1. Describe the first step.
+2. Describe the next step.
+3. Describe the final step.
 
 ## Observations and results
 

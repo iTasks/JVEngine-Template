@@ -42,7 +42,7 @@ Record known discussions, demonstrations, publications, offers, or other disclos
 - What additional information or records should I prepare?
 - What deadlines, disclosure concerns, or filing options should I ask about?
 - Which parts of the concept warrant further technical documentation?
-- 
+- [ ] Add a question for the patent professional
 
 ## Follow-up
 
